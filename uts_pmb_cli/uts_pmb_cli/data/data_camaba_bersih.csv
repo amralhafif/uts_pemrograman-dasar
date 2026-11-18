@@ -1,0 +1,7 @@
+no_daftar,nama,asal_sekolah,prodi_pilihan,jalur_masuk,nilai_seleksi,status_kelulusan,status_daftar_ulang
+PMB001,Raka Pratama,SMAN 1 Yogyakarta,Teknik Komputer,SNBP,86.5,Lulus,Sudah
+PMB002,Siti Nurhaliza,SMAN 3 Sleman,Informatika,SNBT,91.0,Lulus,Sudah
+PMB003,Budi Santoso,SMKN 2 Depok,Teknik Komputer,MANDIRI,64.0,Tidak Lulus,Belum
+PMB004,Dina Ayu Lestari,MAN 1 Bantul,Sistem Informasi,SNBT,78.5,Lulus,Belum
+PMB005,Fajar Nugroho,SMAN 1 Bengkulu Utara,Teknik Komputer,MANDIRI,82.0,Lulus,Sudah
+PMB006,Galih Permana,SMK Telkom,Informatika,SNBP,68.5,Tidak Lulus,Belum

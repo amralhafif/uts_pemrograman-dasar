@@ -1,0 +1,29 @@
+{
+    "passing_grade": 70.0,
+    "total_pendaftar_unik": 6,
+    "total_lulus": 4,
+    "total_tidak_lulus": 2,
+    "total_sudah_daftar_ulang": 3,
+    "persentase_kelulusan": 66.67,
+    "rata_rata_nilai_global": 78.42,
+    "rekap_per_prodi": {
+        "Informatika": {
+            "jumlah_pendaftar": 2,
+            "jumlah_lulus": 1,
+            "sudah_daftar_ulang": 1,
+            "rata_rata_nilai": 79.75
+        },
+        "Sistem Informasi": {
+            "jumlah_pendaftar": 1,
+            "jumlah_lulus": 1,
+            "sudah_daftar_ulang": 0,
+            "rata_rata_nilai": 78.5
+        },
+        "Teknik Komputer": {
+            "jumlah_pendaftar": 3,
+            "jumlah_lulus": 2,
+            "sudah_daftar_ulang": 2,
+            "rata_rata_nilai": 77.5
+        }
+    }
+}

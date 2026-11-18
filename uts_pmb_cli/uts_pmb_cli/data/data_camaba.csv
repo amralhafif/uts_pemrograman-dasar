@@ -1,0 +1,10 @@
+no_daftar,nama,asal_sekolah,prodi_pilihan,jalur_masuk,nilai_seleksi,status_daftar_ulang
+PMB001,Raka Pratama,SMAN 1 Yogyakarta,Teknik Komputer,SNBP,86.5,Sudah
+PMB002,Siti Nurhaliza,SMAN 3 Sleman,Informatika,SNBT,91.0,Sudah
+PMB003,Budi Santoso,SMKN 2 Depok,Teknik Komputer,Mandiri,64.0,Belum
+PMB001,Raka Pratama (Duplikat),SMAN 1 Yogyakarta,Teknik Komputer,SNBP,86.5,Sudah
+PMB004,Dina Ayu Lestari,MAN 1 Bantul,Sistem Informasi,SNBT,78.5,Belum
+PMB005,Fajar Nugroho,SMAN 1 Bengkulu Utara,Teknik Komputer,Mandiri,82.0,Sudah
+PMB006,Galih Permana,SMK Telkom,Informatika,SNBP,68.5,Belum
+PMB007,Data Rusak Uji Error,SMA Contoh,Informatika,Mandiri,delapan_puluh,Belum
+PMB008,Data Nilai Minus,SMA Contoh 2,Teknik Komputer,SNBT,-15,Belum
